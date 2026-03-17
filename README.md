@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project o
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70897&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+a+Developer!;I+love+building+cool+apps.;Exploring+new+tech+stacks!;Let's+build+something+amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Hi+there,my+name+is+sanchit!;+I'm+a+Developer!;I+love+building+cool+apps.;Exploring+new+tech+stacks!;Let's+build+something+amazing!" alt="Typing SVG" />
   </a>
 </p>
 <!-- Snake Game Repo View -->
