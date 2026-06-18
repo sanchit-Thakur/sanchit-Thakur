@@ -4,7 +4,7 @@ Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project o
 
 
 - 🔭 **I’m currently working on:** STUDENT-PORFOLIO BUILDER
-- 🌱 **I’m currently learning:** ADVANCED PYTHON
+- 🌱 **I’m currently learning:** DATA SCIENCE , LLM(LARGE LANGUAGE MODEL)
 - 👯 **I’m looking to collaborate on:** STUDENT-PORFOLIO BUILDER
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sanchitthakur2345@gmail.com
