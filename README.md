@@ -3,9 +3,9 @@ Student Developer | Learning Java, Web & Building Projects
 Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🔭 **I’m currently working on:** E-WASTE MANAGEMENT
-- 🌱 **I’m currently learning:** JAVA
-- 👯 **I’m looking to collaborate on:** E-WASTE MANAGEMENT 
+- 🔭 **I’m currently working on:** STUDENT-PORFOLIO BUILDER
+- 🌱 **I’m currently learning:** ADVANCED PYTHON
+- 👯 **I’m looking to collaborate on:** STUDENT-PORFOLIO BUILDER
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sanchitthakur2345@gmail.com
 - 😄 **Pronouns:** sanchit 
