@@ -45,7 +45,13 @@ Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanchitthakur2345-boop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanchit-thakur&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="sanchit thakur's github trophies" />
+  </a>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
