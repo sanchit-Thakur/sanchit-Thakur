@@ -44,12 +44,7 @@ Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project o
 ![](https://nirzak-streak-stats.vercel.app/?user=sanchit-Thakur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanchit-thakur&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="sanchit thakur's github trophies" />
-  </a>
-</p>
+
 
 ---
 
