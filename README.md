@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Sanchit Thakur
 Student Developer | Learning Java, Web & Building Projects
-Email Me 👉 ✉️ **sanchitthakur2345@gnail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sanchitthakur2345@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 - 🔭 **I’m currently working on:** STUDENT-PORFOLIO BUILDER
