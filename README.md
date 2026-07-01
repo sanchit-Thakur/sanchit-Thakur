@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sanchit Thakur
+# 💫 Hi , I'm Sanchit Thakur
 Student Developer | Learning Java, Web & Building Projects
 Email Me 👉 ✉️ **sanchitthakur2345@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
