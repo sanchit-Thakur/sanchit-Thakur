@@ -3,9 +3,9 @@ Student Developer | Learning Java, Web & Building Projects
 Email Me 👉 ✉️ **sanchitthakur2345@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🔭 **I’m currently working on:** STUDENT-PORFOLIO BUILDER
+- 🔭 **I’m currently working on:** PERSONAL-DASHBOARD
 - 🌱 **I’m currently learning:** DATA SCIENCE , LLM(LARGE LANGUAGE MODEL)
-- 👯 **I’m looking to collaborate on:** STUDENT-PORFOLIO BUILDER
+- 👯 **I’m looking to collaborate on:** PERSONAL-DASHBOARD
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sanchitthakur2345@gmail.com
 - 😄 **Pronouns:** sanchit 
