@@ -4,9 +4,9 @@ Email Me 👉 ✉️ **sanchitthakur2345@gmail.com** For Collaboration/Project o
 
 
 
-- 🔭 **I’m currently working on:** PERSONAL-DASHBOARD
+- 🔭 **I’m currently working on:** PORTFOLIO-BUILDER
 - 🌱 **I’m currently learning:** DATA SCIENCE , LLM(LARGE LANGUAGE MODEL)
-- 👯 **I’m looking to collaborate on:** PERSONAL-DASHBOARD
+- 👯 **I’m looking to collaborate on:** PORTFOLIO-BUILDER
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sanchitthakur2345@gmail.com
 - 😄 **Pronouns:** sanchit 
