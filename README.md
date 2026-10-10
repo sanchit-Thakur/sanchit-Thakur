@@ -118,12 +118,36 @@ Sanchit().say_hi()
 
 ---
 
-## 🐍 Contribution Snake
+## 🏅 Highlights
 
 <div align="center">
 
-<!-- Needs the GitHub Action from the setup notes to generate the "output" branch -->
-<img src="https://raw.githubusercontent.com/sanchit-Thakur/sanchit-Thakur/output/github-snake-dark.svg" alt="snake animation" width="95%" />
+<img src="https://img.shields.io/github/followers/sanchit-Thakur?style=for-the-badge&logo=github&label=Followers&color=2c5364" />
+<img src="https://img.shields.io/github/stars/sanchit-Thakur?style=for-the-badge&logo=github&label=Total%20Stars&color=f5a623&affiliations=OWNER" />
+<img src="https://img.shields.io/github/created-at/sanchit-Thakur/sanchit-Thakur?style=for-the-badge&label=Coding%20Since&color=6f42c1" />
+<img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/Learning-Data%20Science%20%26%20LLMs-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+
+</div>
+
+---
+
+## 💡 Quote of the Moment
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+
+</div>
+
+---
+
+## 🎮 Pac-Man Eats My Contributions
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/sanchit-Thakur/sanchit-Thakur/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="95%" />
 
 </div>
 
@@ -152,31 +176,5 @@ Sanchit().say_hi()
 ════════════════ SETUP NOTES (delete before committing) ════════════════
 1. Replace every YOUR-... placeholder in the Connect section with your real handles
    (or delete the badges you don't want).
-2. Snake animation (optional): create .github/workflows/snake.yml in this repo:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Then run the workflow once from the Actions tab. If you skip it, delete the snake section.
-3. Your repo must be named exactly: sanchit-Thakur (same as your username).
+2. Your repo must be named exactly: sanchit-Thakur (same as your username).
 -->
