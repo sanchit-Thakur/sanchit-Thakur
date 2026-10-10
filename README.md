@@ -1,56 +1,182 @@
-# 💫 Hi , I'm Sanchit Thakur
-Student Developer | Learning Java, Web & Building Projects
-Email Me 👉 ✉️ **sanchitthakur2345@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-
-
-- 🔭 **I’m currently working on:** PORTFOLIO-BUILDER
-- 🌱 **I’m currently learning:** DATA SCIENCE , LLM(LARGE LANGUAGE MODEL)
-- 👯 **I’m looking to collaborate on:** PORTFOLIO-BUILDER
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sanchitthakur2345@gmail.com
-- 😄 **Pronouns:** sanchit 
-- ⚡ **Fun fact:** I Love to code
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WEfsjad6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s_a_n_c_h_i_t__01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchit-thakur-399420344) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sanchitthakur2345) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@demon.K01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchitthakur2345@gmail.com)![Profile Views](https://komarev.com/ghpvc/?username=sanchit-Thakur&color=blueviolet&style=flat-square)
-
-  <a href="https://leetcode.com/u/sanchit-123" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Hi+there,my+name+is+sanchit!;+I'm+a+Developer!;I+love+building+cool+apps.;Exploring+new+tech+stacks!;Let's+build+something+amazing!" alt="Typing SVG" />
-  </a>
-</p>
-<!-- Snake Game Repo View -->
-
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sanchit%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sanchit+Thakur;B.Tech+Student+in+AI+%26+Data+Science;I+turn+data+%26+ideas+into+working+products;Learning+Data+Science+%26+LLMs+%F0%9F%A4%96;I+love+to+code+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanchit-Thakur&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sanchit-Thakur?label=Followers&style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/sanchit-Thakur?label=Stars&style=for-the-badge&logo=github&color=f5a623)
+
 </div>
 
-<!--- graph--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanchit-Thakur&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchit-Thakur&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanchit-Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanchit-Thakur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-Thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```python
+class Sanchit:
+    def __init__(self):
+        self.name       = "Sanchit Thakur"
+        self.role       = "Student Developer | B.Tech (AI & Data Science)"
+        self.languages  = ["Java", "Python", "C", "C++", "JavaScript", "TypeScript"]
+        self.working_on = "Portfolio Builder 🚀"
+        self.learning   = ["Data Science", "Large Language Models (LLMs)"]
+        self.open_to    = ["Collaboration", "Projects", "Tech Support"]
+        self.fun_fact   = "I love to code ⚡"
 
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something together.")
 
+Sanchit().say_hi()
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently
+- 🛠️ Working on **Portfolio Builder**
+- 🌱 Learning **Data Science** & **LLMs**
+- 🤝 Looking to collaborate on **Portfolio Builder**
+
+</td>
+<td width="50%">
+
+### 💬 Ask Me About
+- 🤝 Collaboration
+- 🧑‍💻 Tech Support
+- ☕ Java, Python & Web Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts&theme=dark" />
+
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express&theme=dark" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,aws,gcp,cloudflare&theme=dark" />
+
+**Data Science & ML**
+
+<img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,matplotlib&theme=dark" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,figma,ai,ps&theme=dark" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanchitthakur2345-boop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanchit-Thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit-Thakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sanchit-Thakur&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit-Thakur&bg_color=0d1117&color=00F7FF&line=2c5364&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🏆 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sanchit-123/">
+  <img src="https://leetcard.jacoblin.cool/sanchit-123?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Needs the GitHub Action from the setup notes to generate the "output" branch -->
+<img src="https://raw.githubusercontent.com/sanchit-Thakur/sanchit-Thakur/output/github-snake-dark.svg" alt="snake animation" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sanchitthakur2345@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sanchit-123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A0AEC0&center=true&vCenter=true&width=500&lines=Open+to+collaboration+and+new+ideas+%F0%9F%A4%9D;Let's+build+something+awesome+together!" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+<!--
+════════════════ SETUP NOTES (delete before committing) ════════════════
+1. Replace every YOUR-... placeholder in the Connect section with your real handles
+   (or delete the badges you don't want).
+2. Snake animation (optional): create .github/workflows/snake.yml in this repo:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   Then run the workflow once from the Actions tab. If you skip it, delete the snake section.
+3. Your repo must be named exactly: sanchit-Thakur (same as your username).
+-->
