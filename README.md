@@ -118,11 +118,11 @@ My goal is to transform raw data into meaningful insights and build practical AI
 <div align="center">
 
 <a href="https://github.com/sanchit-Thakur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=portbuilder-main_1&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/sanchit-Thakur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=sales-Data_2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
