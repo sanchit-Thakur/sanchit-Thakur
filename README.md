@@ -1,37 +1,40 @@
-<!--
-  PREMIUM GITHUB PROFILE README
-  Owner: Sanchit Thakur
-  Update the username and social links where required.
--->
+# ⚡ Sanchit Thakur | AI & Data Science Developer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=SANCHIT%20THAKUR&fontSize=55&fontColor=00F7FF&stroke=7B2FF7&animation=fadeIn&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=18&descAlignY=70&color=0:090979,100:000000" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090979,50:301060,100:000000&text=SANCHIT%20THAKUR&fontSize=55&fontColor=00F7FF&animation=fadeIn&stroke=7B2FF7&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descSize=16&descAlignY=72"/>
 
-<a href="https://github.com/sanchit-Thakur">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sanchit+Thakur+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Machine+Learning+Explorer+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Turning+Data+Into+Intelligence+%E2%9A%A1" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Reality;Aspiring+Data+Scientist+%F0%9F%A7%A0;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Data+Analytics;Learning+Today.+Innovating+Tomorrow." alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanchit-Thakur&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/sanchit-Thakur?style=for-the-badge&color=00F7FF&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/sanchit-Thakur?style=for-the-badge&color=yellow&label=TOTAL+STARS"/>
+<a href="https://github.com/sanchit-Thakur">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sanchit-thakur-399420344/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:sanchitthakur2345@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sanchit-Thakur&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 👨‍💻 About Me
 
 ```python
-class SanchitThakur:
+class Developer:
 
     def __init__(self):
         self.name = "Sanchit Thakur"
         self.education = "B.Tech - AI & Data Science"
-        self.college = "CGC Jhanjeri, India"
+        self.institute = "CGC Jhanjeri, India"
         self.role = "Aspiring AI/ML Engineer"
+        self.location = "India"
 
         self.languages = [
             "Python", "Java", "C++", "C", "SQL"
@@ -45,52 +48,54 @@ class SanchitThakur:
             "Generative AI"
         ]
 
-        self.currently_learning = [
-            "Advanced Python",
-            "Machine Learning",
-            "Data Structures & Algorithms",
-            "Deep Learning"
+        self.tools = [
+            "Pandas", "NumPy",
+            "Scikit-learn", "MySQL",
+            "Streamlit", "Git", "GitHub"
         ]
 
-    def say_hi(self):
-        print("Welcome to my GitHub profile!")
+    def ambition(self):
+        return "Build intelligent solutions using data and AI."
 
-me = SanchitThakur()
-me.say_hi()
+
+me = Developer()
+print(me.ambition())
 ```
 
-I'm an enthusiastic AI & Data Science student who enjoys exploring the intersection of programming, data, and intelligent systems.
+I'm a B.Tech student specializing in Artificial Intelligence and Data Science, passionate about programming, analytical thinking, and emerging technologies.
 
-My goal is to transform raw data into meaningful insights and build practical AI-powered solutions that solve real-world problems.
+I enjoy exploring how data can uncover meaningful insights and how machine learning can turn ideas into intelligent applications.
 
-- 🔭 Exploring AI, ML and Data Science projects.
-- 🌱 Improving my programming and problem-solving skills.
-- 🧠 Interested in predictive analytics and intelligent applications.
-- 💻 Building projects using Python, SQL and modern technologies.
-- 🎯 Working towards becoming a Data Scientist / AI-ML Engineer.
-- ⚡ Believe in learning by building.
+**A little more about me:**
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science.
+- 🤖 Interested in Machine Learning and Artificial Intelligence.
+- 📊 Exploring Data Analytics, EDA and data visualization.
+- 🐍 Working with Python and its data science ecosystem.
+- 🗄️ Learning database management and SQL.
+- 💡 Interested in building practical, real-world projects.
+- 🎯 Long-term goal: Become a skilled Data Scientist and AI/ML Engineer.
 
 ---
 
-## ⚡ Technical Arsenal
+## ⚙️ Technical Skills
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark"/>
 
 ### Data Science & Machine Learning
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-### Database & Development Tools
+### Database & Development
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,jupyter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
 
 ### Web Technologies
 
@@ -100,41 +105,47 @@ My goal is to transform raw data into meaningful insights and build practical AI
 
 ---
 
-## 🧠 What I'm Working On
-
-| Domain | Focus |
-|:---|:---|
-| 🤖 Artificial Intelligence | Understanding intelligent systems |
-| 🧠 Machine Learning | Classification, regression and prediction |
-| 📊 Data Science | EDA, data cleaning and visualization |
-| 🐍 Python | Problem-solving and automation |
-| 🗄️ SQL | Database management and querying |
-| 🌐 Development | Building practical applications |
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/sanchit-Thakur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=portbuilder-main_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/sanchit-Thakur/Sales-Data">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=Sales-Data&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/sanchit-Thakur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=sales-Data_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/sanchit-Thakur/portbuilder-main">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=portbuilder-main&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sanchit-Thakur/Gym-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanchit-Thakur&repo=Gym-Management-System&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-### 🔬 Projects I'm Exploring
+### 📌 Project Showcase
 
-- **Student Performance Analyzer** – Analyze academic performance and identify meaningful patterns.
-- **Gym Management System** – A full-stack management application using Java, Spring Boot and MySQL.
-- **Data Analysis Projects** – Extract insights through Python, Pandas, NumPy and visualization.
-- **AI-Powered Applications** – Explore intelligent tools using modern AI technologies.
+| Project | Focus |
+|---|---|
+| 📈 Sales-Data | Sales data exploration and analysis |
+| 🏋️ Gym Management System | Management application and database development |
+| 🤖 ML Projects | Machine learning experiments and predictive analytics |
+| 🌐 Portbuilder | Portfolio-building project |
 
-*Replace the project placeholders above with your actual public repository names.*
+*Explore my repositories for source code, implementation details and updates.*
+
+---
+
+## 🧠 Current Learning Journey
+
+| Area | Learning Focus |
+|---|---|
+| Python | Programming and problem-solving |
+| SQL | Database queries and management |
+| Data Science | Pandas, NumPy and EDA |
+| Machine Learning | Predictive modelling and algorithms |
+| DSA | Problem-solving and algorithmic thinking |
+| AI | Generative AI and intelligent applications |
 
 ---
 
@@ -148,7 +159,7 @@ My goal is to transform raw data into meaningful insights and build practical AI
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sanchit-Thakur&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=sanchit-Thakur&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -158,17 +169,7 @@ My goal is to transform raw data into meaningful insights and build practical AI
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit-Thakur&bg_color=0d1117&color=00f7ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanchit-Thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit-Thakur&bg_color=0d1117&color=00F7FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -178,42 +179,55 @@ My goal is to transform raw data into meaningful insights and build practical AI
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanchit-Thakur/sanchit-Thakur/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sanchit-Thakur/sanchit-Thakur/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## 🎯 My Roadmap
+## 🏆 GitHub Achievements
 
-- [x] Start learning programming.
-- [x] Explore Python and Data Science.
-- [ ] Master Data Structures & Algorithms.
-- [ ] Build advanced Machine Learning projects.
-- [ ] Learn Deep Learning and Generative AI.
-- [ ] Contribute to Open Source.
-- [ ] Build production-ready AI applications.
-- [ ] Become a professional AI/ML Engineer.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanchit-Thakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
 
 ---
 
-## 🌐 Let's Connect
+## 🎯 My Developer Roadmap
+
+- [x] Start programming and exploring development.
+- [x] Learn Python and programming fundamentals.
+- [x] Explore data analysis tools.
+- [ ] Strengthen Data Structures & Algorithms.
+- [ ] Master Machine Learning fundamentals.
+- [ ] Build advanced AI/ML applications.
+- [ ] Explore Deep Learning and Generative AI.
+- [ ] Contribute to Open Source.
+- [ ] Become a professional Data Scientist.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sanchit-Thakur">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add your actual LinkedIn URL -->
-<!-- <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
+<a href="https://www.linkedin.com/in/sanchit-thakur-399420344/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<!-- Add your professional email -->
-<!-- <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> -->
+<a href="mailto:sanchitthakur2345@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+**Open to learning, collaboration and interesting opportunities!**
 
 </div>
 
@@ -221,10 +235,10 @@ My goal is to transform raw data into meaningful insights and build practical AI
 
 <div align="center">
 
-### 💡 "Dream big. Code consistently. Build intelligently."
+### ⚡ THINK. BUILD. LEARN. REPEAT.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7B2FF7&height=120&section=footer"/>
+*"The future belongs to those who turn curiosity into creation."*
 
-**Thanks for visiting! ⭐ Let's build something extraordinary.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:301060,100:00F7FF&height=130&section=footer"/>
 
 </div>
