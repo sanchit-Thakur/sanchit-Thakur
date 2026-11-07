@@ -2,6 +2,7 @@
 
 <div align="center">
 
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090979,50:301060,100:000000&text=SANCHIT%20THAKUR&fontSize=55&fontColor=00F7FF&animation=fadeIn&stroke=7B2FF7&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descSize=16&descAlignY=72"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Reality;Aspiring+Data+Scientist+%F0%9F%A7%A0;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Data+Analytics;Learning+Today.+Innovating+Tomorrow." alt="Typing SVG"/>
