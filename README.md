@@ -1,7 +1,6 @@
 # ⚡ Sanchit Thakur | AI & Data Science Developer
 
 <div align="center">
-
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090979,50:301060,100:000000&text=SANCHIT%20THAKUR&fontSize=55&fontColor=00F7FF&animation=fadeIn&stroke=7B2FF7&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descSize=16&descAlignY=72"/>
 
