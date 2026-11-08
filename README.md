@@ -201,7 +201,7 @@ I enjoy exploring how data can uncover meaningful insights and how machine learn
 - [x] Learn Python and programming fundamentals.
 - [x] Explore data analysis tools.
 - [ ] Strengthen Data Structures & Algorithms.
-- [ ] Master Machine Learning fundamentals.
+- [x] Master Machine Learning fundamentals.
 - [ ] Build advanced AI/ML applications.
 - [ ] Explore Deep Learning and Generative AI.
 - [ ] Contribute to Open Source.
