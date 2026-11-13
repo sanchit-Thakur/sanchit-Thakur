@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Reality;Aspiring+Data+Scientist+%F0%9F%A7%A0;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Data+Analytics;Learning+Today.+Innovating+Tomorrow." alt="Typing SVG"/>
 
 <br/>
-
 <a href="https://github.com/sanchit-Thakur">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
