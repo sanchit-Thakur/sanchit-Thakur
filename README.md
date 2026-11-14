@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO CINEMATIC INTRO -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Sanchit Thakur — AI/ML & Quantitative Engineer" width="100%"/>
+<img src="./hero.svg?v=1" alt="Hi, I'm Sanchit Thakur — Data Science & AI Engineer" width="100%"/>
 
 <br/><br/>
 
@@ -31,17 +31,17 @@
 
 <table>
 <tr><th>Mission</th><th>What it is</th><th>Jutsu used</th><th align="center">Rank</th></tr>
-<tr><td><a href="https://github.com/sanchit-Thakur/Chaching"><b>Chaching</b></a></td><td>Autonomous multi-broker trading system with real-time NLP sentiment &amp; live interactive dashboard</td><td><code>Python</code> <code>PyTorch</code> <code>Next.js</code> <code>WebSocket</code></td><td align="center"><b>⭐ S-Rank</b></td></tr>
-<tr><td><a href="https://github.com/sanchit-Thakur/Empirical-Survivability-Framework"><b>Empirical Survivability Framework</b></a></td><td>Distribution-free probabilistic ML system for non-stationary sequential environments &amp; regime detection</td><td><code>Python</code> <code>Bayesian</code> <code>Stochastic ML</code> <code>NumPy</code></td><td align="center"><b>⭐ S-Rank</b></td></tr>
-<tr><td><a href="https://my-portfolio-bice-seven-49.vercel.app/"><b>Portfolio &amp; Research Hub</b></a></td><td>Interactive showcase of data science, machine learning models &amp; full-stack AI engineering</td><td><code>Next.js</code> <code>React.js</code> <code>TypeScript</code> <code>Tailwind</code></td><td align="center"><b>🌐 Live</b></td></tr>
-<tr><td><a href="https://github.com/sanchit-Thakur/financial-nlp-sentiment"><b>Financial NLP Engine</b></a></td><td>Real-time financial news sentiment classifier &amp; multi-factor confidence signal generator</td><td><code>PyTorch</code> <code>Transformers</code> <code>LangChain</code></td><td align="center"><b>⚡ A-Rank</b></td></tr>
-<tr><td><a href="https://github.com/sanchit-Thakur/quantitative-backtester"><b>Quantitative Backtester</b></a></td><td>Regime-aware backtesting engine tracking Sharpe, Sortino, drawdowns &amp; execution slippage</td><td><code>Python</code> <code>Pandas</code> <code>SciPy</code> <code>NumPy</code></td><td align="center"><b>⚡ A-Rank</b></td></tr>
-<tr><td><a href="https://github.com/sanchit-Thakur/autonomous-trading-engine"><b>Autonomous Trading Engine</b></a></td><td>Live &amp; paper execution pipeline across Alpaca &amp; Binance with dynamic risk governors</td><td><code>Python</code> <code>REST APIs</code> <code>WebSockets</code> <code>MongoDB</code></td><td align="center"><b>🛡️ S-Rank</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/CINEVERSE"><b>CINEVERSE</b></a></td><td>Full-stack movies platform allowing users to stream movies &amp; TV shows with modern responsive UI</td><td><code>JavaScript</code> <code>React</code> <code>Tailwind</code> <code>API</code></td><td align="center"><b>⭐ S-Rank</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/Sales-dashboard"><b>Sales-dashboard</b></a></td><td>Interactive sales &amp; business intelligence analytics dashboard with dynamic data visualizations</td><td><code>TypeScript</code> <code>React</code> <code>Charts</code> <code>Data Viz</code></td><td align="center"><b>⭐ S-Rank</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/ML-PROJECT"><b>ML-PROJECT</b></a></td><td>Machine learning predictive pipelines, statistical modeling, feature engineering &amp; evaluation</td><td><code>Python</code> <code>Scikit-Learn</code> <code>Jupyter</code> <code>Pandas</code></td><td align="center"><b>⚡ A-Rank</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/my-portfolio"><b>my-portfolio</b></a></td><td>Developer portfolio repository showcasing data science models, full-stack systems &amp; web projects</td><td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive</code></td><td align="center"><b>🌐 Live</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/Leetcode-problems"><b>Leetcode-problems</b></a></td><td>Curated collection of data structures &amp; algorithmic problem solutions for technical interviews</td><td><code>Java</code> <code>C++</code> <code>DSA</code> <code>Algorithms</code></td><td align="center"><b>⚡ A-Rank</b></td></tr>
+<tr><td><a href="https://github.com/sanchit-Thakur/IRON-PULSE-FITTNESS"><b>IRON-PULSE-FITTNESS</b></a></td><td>Modern fitness tracking and workout management web application with responsive interface</td><td><code>JavaScript</code> <code>CSS</code> <code>Full-Stack</code> <code>Analytics</code></td><td align="center"><b>🛡️ A-Rank</b></td></tr>
 </table>
 
 <div align="center">
 
-<a href="https://github.com/sanchit-Thakur?tab=repositories"><b>→ Explore all repositories</b></a>
+<a href="https://github.com/sanchit-Thakur?tab=repositories"><b>→ Explore all 38 repositories</b></a>
 
 <br/><br/>
 
