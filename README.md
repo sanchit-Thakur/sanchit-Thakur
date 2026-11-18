@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<!-- 🍃 TEAM 7 CHIBI DANCE -->
+<!-- 🍃 TEAM 7 CHIBI DANCE --> 
 <img src="./team7-dance.gif" alt="Team 7 chibi dance" width="260"/>
 
 <br/>
